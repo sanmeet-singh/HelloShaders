@@ -1,8 +1,7 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/SurfaceShaderWithTexture.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/BumpedDiffuseShader.shader">
     <Files>
-      <File FileName="Assets/Shaders/HelloSurfaceShader.shader" Line="28" Column="1" />
-      <File FileName="Assets/Shaders/SurfaceShaderWithTexture.shader" Line="1" Column="37" />
+      <File FileName="Assets/Shaders/BumpedDiffuseShader.shader" Line="1" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
