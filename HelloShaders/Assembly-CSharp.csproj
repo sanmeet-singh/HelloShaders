@@ -61,18 +61,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Shaders\HelloSurfaceShader.cs" />
+    <Compile Include="Assets\Scripts\RotationScript.cs" />
+    <None Include="Assets\Shaders\Rim.shader" />
+    <None Include="Assets\Shaders\BumpedDiffuseShader.shader" />
+    <None Include="Assets\Shaders\HelloSurfaceShader.shader" />
+    <None Include="Assets\Shaders\SurfaceShaderWithTexture.shader" />
+    <None Include="Assets\Shaders\BumpedDiffuseEnvoirnmentShader.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/apple/Desktop/Pesonal/Shaders/HelloShaders/HelloShaders/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/apple/Desktop/Pesonal/Shaders/HelloShaders/HelloShaders/HelloShaders/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/apple/Desktop/Pesonal/Shaders/HelloShaders/HelloShaders/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/apple/Desktop/Pesonal/Shaders/HelloShaders/HelloShaders/HelloShaders/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/apple/Desktop/Pesonal/Shaders/HelloShaders/HelloShaders/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/apple/Desktop/Pesonal/Shaders/HelloShaders/HelloShaders/HelloShaders/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/apple/Desktop/Pesonal/Shaders/HelloShaders/HelloShaders/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/apple/Desktop/Pesonal/Shaders/HelloShaders/HelloShaders/HelloShaders/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

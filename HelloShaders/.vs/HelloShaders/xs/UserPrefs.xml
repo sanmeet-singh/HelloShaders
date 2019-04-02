@@ -1,8 +1,9 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{49441DCE-E47B-2CFF-F436-50E195F1F234}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Rim.shader">
     <Files>
-      <File FileName="Assets/Shaders/HelloSurfaceShader.shader" Line="3" Column="46" />
-      <File FileName="Assets/Shaders/Rim.shader" Line="3" Column="12" />
+      <File FileName="Assets/Shaders/HelloSurfaceShader.shader" Line="11" Column="25" />
+      <File FileName="Assets/Shaders/Rim.shader" Line="4" Column="13" />
+      <File FileName="Assets/Shaders/BumpedDiffuseShader.shader" Line="6" Column="48" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
