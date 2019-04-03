@@ -65,6 +65,7 @@
     <None Include="Assets\Shaders\RimWithLogicalCutOff.shader" />
     <None Include="Assets\Shaders\Rim.shader" />
     <None Include="Assets\Shaders\BumpedDiffuseShader.shader" />
+    <None Include="Assets\Shaders\BasicLambert.shader" />
     <None Include="Assets\Shaders\HelloSurfaceShader.shader" />
     <None Include="Assets\Shaders\SurfaceShaderWithTexture.shader" />
     <None Include="Assets\Shaders\BumpedDiffuseEnvoirnmentShader.shader" />
