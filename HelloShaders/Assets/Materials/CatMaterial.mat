@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: CatMaterial
-  m_Shader: {fileID: 4800000, guid: 8ceca2b19363f484cbfe71a17c8a88ef, type: 3}
+  m_Shader: {fileID: 4800000, guid: 9f73de7a00f3b40579f0a7921b6bb100, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -52,6 +52,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicTex:
+        m_Texture: {fileID: 10305, guid: 0000000000000000f000000000000000, type: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -122,7 +126,7 @@ Material:
     m_Colors:
     - _Color: {r: 0.4528302, g: 0.36525455, b: 0.36525455, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SpecColor: {r: 0.033018887, g: 1, b: 0.40669888, a: 1}
+    - _SpecColor: {r: 0.21867211, g: 0.735849, b: 0.41968015, a: 1}
     - _myColor: {r: 1, g: 0, b: 0, a: 1}
     - _myEmissionColorRange: {r: 0.044054817, g: 0.1404177, b: 0.6226415, a: 1}
     - _myVector: {r: 0.5, g: 1, b: 1, a: 1}
