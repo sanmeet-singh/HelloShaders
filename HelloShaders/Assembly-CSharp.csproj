@@ -69,6 +69,7 @@
     <None Include="Assets\Shaders\BasicLambert.shader" />
     <None Include="Assets\Shaders\HelloSurfaceShader.shader" />
     <None Include="Assets\Shaders\SurfaceShaderWithTexture.shader" />
+    <None Include="Assets\Shaders\BasicPhysicalBasedRendering.shader" />
     <None Include="Assets\Shaders\BumpedDiffuseEnvoirnmentShader.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/apple/Desktop/Pesonal/Shaders/HelloShaders/HelloShaders/HelloShaders/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
