@@ -70,6 +70,7 @@
     <None Include="Assets\Shaders\HelloSurfaceShader.shader" />
     <None Include="Assets\Shaders\SurfaceShaderWithTexture.shader" />
     <None Include="Assets\Shaders\BasicSpecularPBR.shader" />
+    <None Include="Assets\Shaders\AlphaShader.shader" />
     <None Include="Assets\Shaders\BasicPhysicalBasedRendering.shader" />
     <None Include="Assets\Shaders\BumpedDiffuseEnvoirnmentShader.shader" />
     <Reference Include="UnityEditor.StandardEvents">

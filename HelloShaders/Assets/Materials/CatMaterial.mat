@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: CatMaterial
-  m_Shader: {fileID: 4800000, guid: 9f73de7a00f3b40579f0a7921b6bb100, type: 3}
+  m_Shader: {fileID: 4800000, guid: 9300f29cf4f9e46328d764236eb87e0b, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -47,7 +47,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 518410b5bed1948ce93cfcb939e0ab08, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4edb176d1946c4464b426d5ef861b83e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
