@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\RotationScript.cs" />
     <None Include="Assets\Shaders\RimWithLogicalCutOff.shader" />
+    <None Include="Assets\Shaders\Hologram.shader" />
     <None Include="Assets\Shaders\BasicLambertBlinnPhong.shader" />
     <None Include="Assets\Shaders\Rim.shader" />
     <None Include="Assets\Shaders\BumpedDiffuseShader.shader" />
