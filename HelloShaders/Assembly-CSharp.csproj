@@ -75,6 +75,7 @@
     <None Include="Assets\Shaders\BasicSpecularPBR.shader" />
     <None Include="Assets\Shaders\FirstVertFrag.shader" />
     <None Include="Assets\Shaders\AlphaShader.shader" />
+    <None Include="Assets\Shaders\VFDiffuseShadow.shader" />
     <None Include="Assets\Shaders\BasicPhysicalBasedRendering.shader" />
     <None Include="Assets\Shaders\VFMaterial.shader" />
     <None Include="Assets\Shaders\BumpedDiffuseEnvoirnmentShader.shader" />

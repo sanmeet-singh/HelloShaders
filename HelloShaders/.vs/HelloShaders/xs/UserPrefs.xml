@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{49441DCE-E47B-2CFF-F436-50E195F1F234}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/VFDiffuse.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/FirstVertFrag.shader">
     <Files>
-      <File FileName="Assets/Shaders/VFDiffuse.shader" Line="59" Column="1" />
+      <File FileName="Assets/Shaders/VFDiffuse.shader" Line="19" Column="37" />
+      <File FileName="Assets/Shaders/VFDiffuseShadow.shader" Line="91" Column="28" />
+      <File FileName="Assets/Shaders/FirstVertFrag.shader" Line="30" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
