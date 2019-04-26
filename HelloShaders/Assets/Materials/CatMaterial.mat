@@ -5,9 +5,10 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: CatMaterial
-  m_Shader: {fileID: 4800000, guid: ffc94ed0e3ca34187bf47c54880ff8b0, type: 3}
+  m_Shader: {fileID: 4800000, guid: efff46eba0b9546b29a8daacc956745e, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
