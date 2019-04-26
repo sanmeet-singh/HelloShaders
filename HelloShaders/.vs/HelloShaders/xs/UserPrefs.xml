@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{49441DCE-E47B-2CFF-F436-50E195F1F234}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/FirstVertFrag.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/VFColoredMaterial.shader">
     <Files>
-      <File FileName="Assets/Shaders/VFDiffuse.shader" Line="19" Column="37" />
-      <File FileName="Assets/Shaders/VFDiffuseShadow.shader" Line="91" Column="28" />
-      <File FileName="Assets/Shaders/FirstVertFrag.shader" Line="30" Column="38" />
+      <File FileName="Assets/Shaders/VFMaterial.shader" Line="11" Column="41" />
+      <File FileName="Assets/Shaders/VFColoredMaterial.shader" Line="6" Column="48" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
