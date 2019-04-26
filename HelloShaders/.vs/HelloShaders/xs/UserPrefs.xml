@@ -1,13 +1,7 @@
 ﻿<Properties StartupConfiguration="{49441DCE-E47B-2CFF-F436-50E195F1F234}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/VFMaterial.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/VFDiffuse.shader">
     <Files>
-      <File FileName="Assets/Shaders/BasicPhysicalBasedRendering.shader" Line="1" Column="15" />
-      <File FileName="Assets/Shaders/BasicSpecularPBR.shader" Line="1" Column="15" />
-      <File FileName="Assets/Shaders/AlphaShader.shader" Line="1" Column="15" />
-      <File FileName="Assets/Shaders/Hologram.shader" Line="1" Column="15" />
-      <File FileName="Assets/Shaders/BlendingTextures.shader" Line="28" Column="40" />
-      <File FileName="Assets/Shaders/FirstVertFrag.shader" Line="36" Column="31" />
-      <File FileName="Assets/Shaders/VFMaterial.shader" Line="31" Column="23" />
+      <File FileName="Assets/Shaders/VFDiffuse.shader" Line="59" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
