@@ -75,6 +75,7 @@
     <None Include="Assets\Shaders\FirstVertFrag.shader" />
     <None Include="Assets\Shaders\AlphaShader.shader" />
     <None Include="Assets\Shaders\BasicPhysicalBasedRendering.shader" />
+    <None Include="Assets\Shaders\VFMaterial.shader" />
     <None Include="Assets\Shaders\BumpedDiffuseEnvoirnmentShader.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/apple/Desktop/Pesonal/Shaders/HelloShaders/HelloShaders/HelloShaders/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
