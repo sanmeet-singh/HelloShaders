@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PlaneMaterial
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 4800000, guid: a6263c20959db41b6ab1796b19c281b7, type: 3}
   m_ShaderKeywords: _NORMALMAP
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -52,7 +52,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 4edb176d1946c4464b426d5ef861b83e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8cfc7ce6075bd4e53be3fc253cb1961d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -101,6 +101,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - ScaleUVX: 1
+    - _Amp: 0.18
     - _Brightness: 1
     - _BumpAmount: 1
     - _BumpScale: 1
@@ -108,6 +109,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvoirnmentAmount: 0.1
+    - _Freq: 0.06
     - _Gloss: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.5
@@ -123,6 +125,7 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _Spec: 0.93
     - _SpecularHighlights: 1
+    - _Speed: 26
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
@@ -141,6 +144,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _RimColor: {r: 0, g: 0.5, b: 0.5, a: 0}
     - _SpecColor: {r: 0.21867211, g: 0.735849, b: 0.41968015, a: 1}
+    - _Tint: {r: 1, g: 1, b: 1, a: 1}
     - _myColor: {r: 1, g: 0, b: 0, a: 1}
     - _myEmissionColorRange: {r: 0.044054817, g: 0.1404177, b: 0.6226415, a: 1}
     - _myVector: {r: 0.5, g: 1, b: 1, a: 1}
