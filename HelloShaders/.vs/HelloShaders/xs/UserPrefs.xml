@@ -1,12 +1,7 @@
 ﻿<Properties StartupConfiguration="{49441DCE-E47B-2CFF-F436-50E195F1F234}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Waves.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Dissolve.shader">
     <Files>
-      <File FileName="Assets/Shaders/VFDiffuseColoredShadow.shader" Line="48" Column="14" />
-      <File FileName="Assets/Shaders/ExtrudeVertices.shader" Line="39" Column="14" />
-      <File FileName="Assets/Shaders/Outline.shader" Line="44" Column="14" />
-      <File FileName="Assets/Shaders/VFMaterial.shader" Line="1" Column="1" />
-      <File FileName="Assets/Shaders/Glass.shader" Line="57" Column="32" />
-      <File FileName="Assets/Shaders/Waves.shader" Line="1" Column="15" />
+      <File FileName="Assets/Shaders/Dissolve.shader" Line="39" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

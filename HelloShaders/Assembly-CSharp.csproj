@@ -63,11 +63,13 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\RotationScript.cs" />
     <None Include="Assets\Shaders\Waves.shader" />
+    <None Include="Assets\Shaders\InvertHologram.shader" />
     <None Include="Assets\Shaders\VFDiffuseColoredShadow.shader" />
     <None Include="Assets\Shaders\BlendingTextures.shader" />
     <None Include="Assets\Shaders\RimWithLogicalCutOff.shader" />
     <None Include="Assets\Shaders\Hologram.shader" />
     <None Include="Assets\Shaders\BasicLambertBlinnPhong.shader" />
+    <None Include="Assets\Shaders\Dissolve.shader" />
     <None Include="Assets\Shaders\Rim.shader" />
     <None Include="Assets\Shaders\Outline.shader" />
     <None Include="Assets\Shaders\BumpedDiffuseShader.shader" />
@@ -75,6 +77,7 @@
     <None Include="Assets\Shaders\HelloSurfaceShader.shader" />
     <None Include="Assets\Shaders\VFDiffuse.shader" />
     <None Include="Assets\Shaders\SurfaceShaderWithTexture.shader" />
+    <None Include="Assets\Shaders\BlackXRay.shader" />
     <None Include="Assets\Shaders\ExtrudeVertices.shader" />
     <None Include="Assets\Shaders\BasicSpecularPBR.shader" />
     <None Include="Assets\Shaders\FirstVertFrag.shader" />
